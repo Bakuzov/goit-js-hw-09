@@ -4,7 +4,7 @@
 59C:\Users\MIKE\goit-js-hw-09\node_modules\chrome-trace-event133009626379385060 1
 63C:\Users\MIKE\goit-js-hw-09\node_modules\svgo\lib\svgo\jsAPI.js133009626384461937 0
 35C:\Users\MIKE\goit-js-hw-09\.github133009625631355162 1
-62C:\Users\MIKE\goit-js-hw-09\dist\01-color-switcher.52e3b619.js133009628149971374 0
+62C:\Users\MIKE\goit-js-hw-09\dist\01-color-switcher.52e3b619.js133009638365452156 0
 48C:\Users\MIKE\goit-js-hw-09\node_modules\@parcel133009626404796264 1
 72C:\Users\MIKE\goit-js-hw-09\node_modules\caniuse-lite\data\regions\HT.js133009626394245886 0
 75C:\Users\MIKE\goit-js-hw-09\node_modules\abortcontroller-polyfill\README.md133009626381853533 0
@@ -41,7 +41,7 @@
 39C:\Users\MIKE\goit-js-hw-09\.htmlnanorc133007525926093812 0
 95C:\Users\MIKE\goit-js-hw-09\node_modules\parcel-reporter-clean-dist\test\helpers\getAllFiles.js133009626378345702 0
 69C:\Users\MIKE\goit-js-hw-09\node_modules\css-select\lib\sort.d.ts.map133009626383692395 0
-32C:\Users\MIKE\goit-js-hw-09\dist133009630132085770 1
+32C:\Users\MIKE\goit-js-hw-09\dist133009638365881874 1
 70C:\Users\MIKE\goit-js-hw-09\node_modules\@parcel\workers\lib\Handle.js133009626382043411 0
 77C:\Users\MIKE\goit-js-hw-09\node_modules\csso\lib\replace\atrule\keyframes.js133009626385341366 0
 68C:\Users\MIKE\goit-js-hw-09\node_modules\is-binary-path\package.json133009626374787902 0
@@ -82,7 +82,7 @@
 72C:\Users\MIKE\goit-js-hw-09\node_modules\css-tree\lib\generator\index.js133009626388289546 0
 53C:\Users\MIKE\goit-js-hw-09\node_modules\svgo\plugins133009626388469436 1
 58C:\Users\MIKE\goit-js-hw-09\node_modules\picomatch\LICENSE133009626374737942 0
-40C:\Users\MIKE\goit-js-hw-09\README.uk.md133007525926143787 0
+40C:\Users\MIKE\goit-js-hw-09\README.uk.md133009644409817944 0
 71C:\Users\MIKE\goit-js-hw-09\node_modules\sass\types\value\function.d.ts133009626388529396 0
 66C:\Users\MIKE\goit-js-hw-09\node_modules\css-select\lib\general.js133009626379285128 0
 78C:\Users\MIKE\goit-js-hw-09\node_modules\@parcel\utils\test\DefaultMap.test.js133009626381633672 0
@@ -555,7 +555,7 @@
 55C:\Users\MIKE\goit-js-hw-09\node_modules\node-gyp-build133009626379005299 1
 72C:\Users\MIKE\goit-js-hw-09\node_modules\@parcel\transformer-postcss\lib133009626379884748 1
 71C:\Users\MIKE\goit-js-hw-09\node_modules\svgo\plugins\preset-default.js133009626386660549 0
-62C:\Users\MIKE\goit-js-hw-09\dist\goit-js-hw-09.59712999.js.map133009628165072020 0
+62C:\Users\MIKE\goit-js-hw-09\dist\goit-js-hw-09.59712999.js.map133009638365552076 0
 73C:\Users\MIKE\goit-js-hw-09\node_modules\node-gyp-build-optional-packages133009626378995305 1
 67C:\Users\MIKE\goit-js-hw-09\node_modules\nan\nan_callbacks_12_inl.h133009626374977787 0
 66C:\Users\MIKE\goit-js-hw-09\node_modules\parcel\src\.eslintrc.json133009626379115238 0
@@ -691,7 +691,7 @@
 51C:\Users\MIKE\goit-js-hw-09\node_modules\source-map133009626382483144 1
 54C:\Users\MIKE\goit-js-hw-09\node_modules\source-map-js133009626382323240 1
 65C:\Users\MIKE\goit-js-hw-09\node_modules\sass\types\importer.d.ts133009626388619341 0
-57C:\Users\MIKE\goit-js-hw-09\dist\02-timer.f9388f03.js.map133009628150011348 0
+57C:\Users\MIKE\goit-js-hw-09\dist\02-timer.f9388f03.js.map133009638365542088 0
 58C:\Users\MIKE\goit-js-hw-09\node_modules\lmdb\util\when.js133009626390498177 0
 59C:\Users\MIKE\goit-js-hw-09\node_modules\timsort\LICENSE.md133009626378015923 0
 76C:\Users\MIKE\goit-js-hw-09\node_modules\caniuse-lite\data\regions\alt-an.js133009626382683021 0
@@ -1023,7 +1023,7 @@
 82C:\Users\MIKE\goit-js-hw-09\node_modules\entities\lib\generated\decode-data-xml.js133009626378695509 0
 86C:\Users\MIKE\goit-js-hw-09\node_modules\posthtml-include\node_modules\posthtml-parser133009626378745453 1
 80C:\Users\MIKE\goit-js-hw-09\node_modules\svgo\plugins\cleanupEnableBackground.js133009626380904124 0
-58C:\Users\MIKE\goit-js-hw-09\dist\goit-js-hw-09.59712999.js133009628165052029 0
+58C:\Users\MIKE\goit-js-hw-09\dist\goit-js-hw-09.59712999.js133009638365452156 0
 80C:\Users\MIKE\goit-js-hw-09\node_modules\htmlnano\lib\modules\removeUnusedCss.js133009626384152106 0
 65C:\Users\MIKE\goit-js-hw-09\node_modules\node-addon-api\README.md133009626383402573 0
 70C:\Users\MIKE\goit-js-hw-09\node_modules\utility-types\dist\index.d.ts133009626382742990 0
@@ -1862,7 +1862,7 @@
 120C:\Users\MIKE\goit-js-hw-09\node_modules\parcel-reporter-clean-dist\test\fixtures\packageV4\files\embed\embed2\file3.txt133009626388169626 0
 63C:\Users\MIKE\goit-js-hw-09\node_modules\js-tokens\package.json133009626374777906 0
 68C:\Users\MIKE\goit-js-hw-09\node_modules\htmlnano\docs\versions.json133009626387350127 0
-49C:\Users\MIKE\goit-js-hw-09\dist\03-promises.html133009630131935870 0
+49C:\Users\MIKE\goit-js-hw-09\dist\03-promises.html133009630681521144 0
 103C:\Users\MIKE\goit-js-hw-09\node_modules\parcel-reporter-clean-dist\test\fixtures\packageV3\files\embed133009626388029722 1
 77C:\Users\MIKE\goit-js-hw-09\node_modules\css-tree\lib\lexer\prepare-tokens.js133009626389818597 0
 110C:\Users\MIKE\goit-js-hw-09\node_modules\parcel-reporter-clean-dist\test\fixtures\packageV3\files\embed\embed2133009626388039700 1
@@ -3496,7 +3496,7 @@
 88C:\Users\MIKE\goit-js-hw-09\node_modules\caniuse-lite\data\features\custom-elementsv1.js133009626392506949 0
 87C:\Users\MIKE\goit-js-hw-09\node_modules\abortcontroller-polyfill\src\abortableFetch.js133009626375877232 0
 78C:\Users\MIKE\goit-js-hw-09\node_modules\caniuse-lite\data\features\dataset.js133009626392596884 0
-46C:\Users\MIKE\goit-js-hw-09\dist\02-timer.html133009630131935870 0
+46C:\Users\MIKE\goit-js-hw-09\dist\02-timer.html133009630681521144 0
 81C:\Users\MIKE\goit-js-hw-09\node_modules\@parcel\source-map\parcel_sourcemap_node133009626389338901 1
 87C:\Users\MIKE\goit-js-hw-09\node_modules\@parcel\core\src\requests\ValidationRequest.js133009626391247715 0
 78C:\Users\MIKE\goit-js-hw-09\node_modules\caniuse-lite\data\features\datauri.js133009626392606896 0
@@ -4715,13 +4715,13 @@
 54C:\Users\MIKE\goit-js-hw-09\node_modules\.bin\svgo.ps1133009626400871754 0
 56C:\Users\MIKE\goit-js-hw-09\node_modules\.bin\terser.cmd133009626400871754 0
 56C:\Users\MIKE\goit-js-hw-09\node_modules\.bin\terser.ps1133009626400871754 0
-66C:\Users\MIKE\goit-js-hw-09\dist\01-color-switcher.52e3b619.js.map133009628150011348 0
-55C:\Users\MIKE\goit-js-hw-09\dist\01-color-switcher.html133009630131935870 0
-53C:\Users\MIKE\goit-js-hw-09\dist\02-timer.f9388f03.js133009628149971374 0
-56C:\Users\MIKE\goit-js-hw-09\dist\03-promises.cd58c9ff.js133009628149971374 0
-60C:\Users\MIKE\goit-js-hw-09\dist\03-promises.cd58c9ff.js.map133009628150021323 0
-51C:\Users\MIKE\goit-js-hw-09\dist\index.101ee4ef.css133009628164752235 0
-55C:\Users\MIKE\goit-js-hw-09\dist\index.101ee4ef.css.map133009628164752235 0
-43C:\Users\MIKE\goit-js-hw-09\dist\index.html133009628165161953 0
+66C:\Users\MIKE\goit-js-hw-09\dist\01-color-switcher.52e3b619.js.map133009638365532089 0
+55C:\Users\MIKE\goit-js-hw-09\dist\01-color-switcher.html133009630681521144 0
+53C:\Users\MIKE\goit-js-hw-09\dist\02-timer.f9388f03.js133009638365452156 0
+56C:\Users\MIKE\goit-js-hw-09\dist\03-promises.cd58c9ff.js133009638365452156 0
+60C:\Users\MIKE\goit-js-hw-09\dist\03-promises.cd58c9ff.js.map133009638365532089 0
+51C:\Users\MIKE\goit-js-hw-09\dist\index.101ee4ef.css133009638365452156 0
+55C:\Users\MIKE\goit-js-hw-09\dist\index.101ee4ef.css.map133009638365452156 0
+43C:\Users\MIKE\goit-js-hw-09\dist\index.html133009630681521144 0
 45C:\Users\MIKE\goit-js-hw-09\assets\status.png133007525926313677 0
 56C:\Users\MIKE\goit-js-hw-09\.github\workflows\deploy.yml133007525926083848 0
