@@ -6,7 +6,7 @@ startButton.addEventListener('click', onStartButtonClick);
 stopButton.addEventListener('click', onStopButtonClick);
 
 function onStartButtonClick() {
-  timerId = setInterval(colorChange, 1000);
+  const timerId = setInterval(colorChange, 1000);
   startButton.disabled = true;
   stopButton.disabled = false;
 }
