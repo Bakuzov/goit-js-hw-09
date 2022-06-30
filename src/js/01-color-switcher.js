@@ -5,8 +5,10 @@ const stopButton = document.querySelector('button[data-stop]');
 startButton.addEventListener('click', onStartButtonClick);
 stopButton.addEventListener('click', onStopButtonClick);
 
+let timerId;
+
 function onStartButtonClick() {
-  const timerId = setInterval(colorChange, 1000);
+  timerId = setInterval(colorChange, 1000);
   startButton.disabled = true;
   stopButton.disabled = false;
 }
