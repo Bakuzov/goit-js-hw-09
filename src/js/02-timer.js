@@ -1,7 +1,7 @@
-import flatpickr from 'flatpickr';
 import 'flatpickr/dist/flatpickr.min.css';
-import Notiflix from 'notiflix';
 import 'notiflix/dist/notiflix-3.2.5.min.css';
+import flatpickr from 'flatpickr';
+import Notiflix from 'notiflix';
 
 const dateTimeInput = document.querySelector('#datetime-picker');
 const startBtn = document.querySelector('button[data-start]');
@@ -9,10 +9,11 @@ const days = document.querySelector('span[data-days]');
 const hours = document.querySelector('span[data-hours]');
 const minutes = document.querySelector('span[data-minutes]');
 const seconds = document.querySelector('span[data-seconds]');
+startBtn.disabled = true;
 
 startBtn.addEventListener('click', onStartBtnClick);
 
-let chosenDate;
+let timeLeft;
 let timerId;
 
 flatpickr(dateTimeInput, {
@@ -24,10 +25,14 @@ flatpickr(dateTimeInput, {
     const currentDate = new Date();
     if (selectedDates[0] > currentDate) {
       startBtn.disabled = false;
-      chosenDate = selectedDates[0];
+
+      timeLeft = selectedDates[0];
     } else {
       startBtn.disabled = true;
-      Notiflix.Report.warning('Please choose a date in the future');
+
+      Notiflix.Notify.failure('Please choose a date in the future', {
+        position: 'center-top',
+      });
     }
   },
 });
@@ -46,13 +51,13 @@ function convertMs(ms) {
 }
 
 function onStartBtnClick() {
-  //   startBtn.disabled = true;
-  //   dateTimeInput.disabled = true;
+  startBtn.disabled = true;
+  dateTimeInput.disabled = true;
   timerId = setInterval(() => {
-    let timer = chosenDate - Date.now();
-    if (timer >= 0) {
-      let data = convertMs(timer);
-      //   console.log(data);
+    let time = timeLeft - Date.now();
+    console.log(time);
+    if (time >= 0) {
+      let data = convertMs(time);
       days.textContent = addLeadingZero(data.days);
       hours.textContent = addLeadingZero(data.hours);
       minutes.textContent = addLeadingZero(data.minutes);
@@ -63,11 +68,12 @@ function onStartBtnClick() {
       dateTimeInput.disabled = false;
     }
   }, 1000);
-  Notiflix.Notify.success('Time run out');
+  Notiflix.Notify.success('Timer Started', {
+    position: 'center-top',
+  });
 }
 
 function addLeadingZero(value) {
   const stringValue = String(value);
   return stringValue.padStart(2, '0');
-  //   return value < 10 ? '0' + value : value;
 }
